@@ -21,7 +21,7 @@
     "dotenv": "^8.2.0",
     "fs": "0.0.1-security",
     "inquirer": "^3.3.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "node-spotify-api": "^1.0.7",
     "request": "^2.83.0",
     "twitter": "^1.7.1"
